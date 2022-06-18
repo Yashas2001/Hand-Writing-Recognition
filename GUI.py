@@ -26,7 +26,7 @@ DISPLAYSURF = pygame.display.set_mode((WINDOWSIZEX, WINDOWSIZEY))
 number_xcord = []
 number_ycord = []
 
-pygame.display.set_caption('HandWriting Recog')
+pygame.display.set_caption('HandWriting Recognition')
 
 iswriting = False
 PREDICT = True
